@@ -119,11 +119,9 @@ plt.show()
 ```
 
 ### Confusion Matrix
-![Confusion Matrix Heatmap](screenshots/confusion_matrix.png) <!-- Replace with actual screenshot filename -->
+<img width="649" height="544" alt="image" src="https://github.com/user-attachments/assets/0969649d-2656-4ed6-b1b4-11baef7dcbc0" />
+ <!-- Replace with actual screenshot filename -->
 
-### Prediction Visualization
-Sample prediction with bar plot of class probabilities:
-![Sample Prediction](screenshots/prediction_barplot.png) <!-- Replace with actual screenshot filename -->
 
 ---
 
