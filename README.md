@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Deep Learning
+# Brain Tumor Detection using CNN
 
 A professional-grade AI system for automatic brain tumor detection from MRI scans using Convolutional Neural Networks (CNNs). This project is fully built from scratch and independently developed, leveraging TensorFlow/Keras for model building and Streamlit for deployment.
 
