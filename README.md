@@ -178,22 +178,16 @@ Access the deployed Streamlit app here:
 ## Screenshots
 
 ### 1. Streamlit UI Home
-![Home UI](screenshots/home_ui.png) <!-- Replace with actual screenshot filename -->
+![Home UI](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbba821e-6d4c-4159-8a3a-bef4558f7c0e" />
+) <!-- Replace with actual screenshot filename -->
 
 ### 2. Image Upload & Prediction
-![Prediction Result](screenshots/prediction_result.png) <!-- Replace with actual screenshot filename -->
+![Prediction Result](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fb7ab72-c727-407f-be2b-ec1b22d97e47" />
+) <!-- Replace with actual screenshot filename -->
 
-### 3. Visualization of Class Probabilities
-![Class Probabilities](screenshots/probability_barplot.png) <!-- Replace with actual screenshot filename -->
+![Prediction Result](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c96f63e4-605e-4158-a6f6-e706ebbe8712" />
 
----
-
-## Demo Link
-
-Try the deployed app here:  
-👉 [https://brain-tumor-detection-faiz-shaikh.streamlit.app/](https://brain-tumor-detection-faiz-shaikh.streamlit.app/)
-
----
+) 
 
 ## Conclusion
 
